@@ -19,7 +19,7 @@ spec:
         app: jhttp
     spec:
       containers:
-      - image: mshahat/jhttp:latest
+      - image: mshahat/harnesss-jhttp:latest
         name: jhttp
         ports:
         - containerPort: 8888
